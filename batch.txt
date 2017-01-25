@@ -1,0 +1,8 @@
+ls
+vim
+
+gedit &
+ps
+pwd
+echo "hello world"
+history
